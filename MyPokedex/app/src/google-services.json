@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119522887981",
+    "project_id": "mypokedex-f1946",
+    "storage_bucket": "mypokedex-f1946.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119522887981:android:e5873d162c45e9b1842ba4",
+        "android_client_info": {
+          "package_name": "garcia.carlosdamian.mypokedex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7tCD-hf7QYtK9hLFZx_zaC549hrEAklc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
